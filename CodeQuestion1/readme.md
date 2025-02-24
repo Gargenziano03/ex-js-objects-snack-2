@@ -19,4 +19,4 @@ Senza lanciare il codice, riesci a prevedere cosa viene stampato in console?
 - In console viene stamapato 'Double Cheese Brger' sia per hamburger.name che per secondBurger.name.
 
 Quanti oggetti sono stati creati in memoria durante l'esecuzione di questo codice?
-- In memoria è stato creato un singolo oggetto.
+- In memoria è stato creato un singolo oggetto "hamburger".

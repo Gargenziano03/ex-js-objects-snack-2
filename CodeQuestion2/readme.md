@@ -16,4 +16,4 @@ P.S.: Ricordati che gli Array, come gli oggetti, sono dei Reference Type (Tipi d
 Senza lanciare il codice, riesci a prevedere cosa viene stampato in console?
 - In console viene stampato "Salad" sia per hamburger.incredients[0] che per secondBurger.ingredients[0]
 Quanti oggetti sono stati creati in memoria durante l'esecuzione di questo codice?
-- In memoria sono stati creati 2 oggetti
+- In memoria sono stati creati 2 oggetti "hamburger" e "secondBurger"
